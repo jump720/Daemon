@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\SIGCWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\SIGCWatcher.InstallLog
+   assemblypath = C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\SIGCWatcher.exe
+Installing service SIGCWatcher...
+Service SIGCWatcher has been successfully installed.
+Creating EventLog source SIGCWatcher in log Application...
+Committing assembly 'C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\SIGCWatcher.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\SIGCWatcher.InstallLog
+   assemblypath = C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\SIGCWatcher.exe

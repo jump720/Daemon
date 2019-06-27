@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomFolderSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomFolderSettings FolderID="SIGC_XML">
+    <FolderEnabled>true</FolderEnabled>    
+    <FolderDescription>SIGC files XML</FolderDescription>
+    <FolderFilter>*.XML</FolderFilter>
+    <FolderPath>C:\Temp</FolderPath>
+    <FolderIncludeSub>false</FolderIncludeSub>
+    <WebService>http://10.0.1.74:81/api/Pedidos/EnviaPedidosWS</WebService>
+    <ExecutableFile>CMD.EXE</ExecutableFile>
+    <!-- The block {0} will be automatically replaced with the corresponding file name -->
+    <ExecutableArguments>/C echo Trigger WS -- File {0} &gt; c:\temp\LOG.txt</ExecutableArguments>
+  </CustomFolderSettings>
+</ArrayOfCustomFolderSettings>

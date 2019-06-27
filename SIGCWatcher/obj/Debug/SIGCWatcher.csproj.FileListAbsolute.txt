@@ -1,0 +1,12 @@
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\CustomFolderSettings.xml
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\App.config
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\log4net.dll
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\log4net.xml
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\obj\Debug\SIGCWatcher.csproj.CoreCompileInputs.cache
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\obj\Debug\SIGCWatcher.csproj.CopyComplete
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\SIGCWatcher.exe.config
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\SIGCWatcher.exe
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\SIGCWatcher.pdb
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\obj\Debug\SIGCWatcher.exe
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\obj\Debug\SIGCWatcher.pdb
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\obj\Debug\SIGCWatcher.csprojAssemblyReference.cache

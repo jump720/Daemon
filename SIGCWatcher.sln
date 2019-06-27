@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIGCWatcher", "SIGCWatcher\SIGCWatcher.csproj", "{83E03D85-9F4B-4745-97A8-6933A8E0C29E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E03D85-9F4B-4745-97A8-6933A8E0C29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E03D85-9F4B-4745-97A8-6933A8E0C29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E03D85-9F4B-4745-97A8-6933A8E0C29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E03D85-9F4B-4745-97A8-6933A8E0C29E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCB2A923-5EAE-4ABC-8BAC-B39722276E4C}
+	EndGlobalSection
+EndGlobal

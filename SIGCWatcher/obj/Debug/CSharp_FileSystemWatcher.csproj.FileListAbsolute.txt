@@ -1,0 +1,12 @@
+C:\TFS_Workspace\GIS_Programs\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\CSharp_FileSystemWatcher.exe.config
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\obj\Debug\CSharp_FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\CustomFolderSettings.xml
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\App.config
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\CSharp_FileSystemWatcher.exe.config
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\CSharp_FileSystemWatcher.exe
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\CSharp_FileSystemWatcher.pdb
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\log4net.dll
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\bin\Debug\log4net.xml
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\obj\Debug\CSharp_FileSystemWatcher.csproj.CopyComplete
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\obj\Debug\CSharp_FileSystemWatcher.exe
+C:\Users\e7d32\Documents\Visual Studio 2017\Projects\CSharp_FileSystemWatcher_MSDN_Article\CSharp_FileSystemWatcher\obj\Debug\CSharp_FileSystemWatcher.pdb
